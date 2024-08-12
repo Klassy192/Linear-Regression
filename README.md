@@ -1,6 +1,6 @@
 ## Linear Regression in Python
 
-- Simple linear regression using python modules.
+- Simple linear regression using python.
 - In this, how does the machine predicts the outcomes of the inputted values, by total terms.
 
 ## Installation
@@ -16,4 +16,4 @@ pip install -r requirements.txt
 ```python
 python linear-regression.py
 ```
-
+**For Demo, I used digits as datasets without referring to images**
